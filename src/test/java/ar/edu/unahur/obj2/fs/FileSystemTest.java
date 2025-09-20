@@ -1,4 +1,4 @@
-package ar.edu.unahur.obj2;
+package ar.edu.unahur.obj2.fs;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
